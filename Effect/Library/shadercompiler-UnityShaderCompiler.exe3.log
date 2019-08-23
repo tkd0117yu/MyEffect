@@ -1,34 +1,69 @@
-Base path: C:/Program Files/Unity/Editor/Data
+Base path: C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data
 Cmd: initializeCompiler
 Cmd: compileComputeKernel
-  api=4 insize=14379 outsize=96833 ok=1
+  error: 2 plat 4 at Deferred.compute(80): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipeline/ShaderPass/ShaderPass.cs.hlsl'
+  api=4 insize=14379 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=14379 outsize=33293 ok=1
+  error: 2 plat 4 at lightlistbuild-clustered.compute(17): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=26814 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=14379 outsize=42785 ok=1
+  error: 2 plat 4 at lightlistbuild-clustered.compute(17): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=26814 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=26814 outsize=15341 ok=1
+  error: 2 plat 4 at lightlistbuild-clustered.compute(17): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=26814 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=2059 outsize=349 ok=1
+  api=4 insize=10881 outsize=9693 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4845 outsize=5397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3396 outsize=2681 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ColorPyramid.compute(22): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=6353 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=18299 outsize=8693 ok=1
 Cmd: compileComputeKernel
   api=4 insize=18299 outsize=10377 ok=1
 Cmd: compileComputeKernel
-  api=4 insize=19063 outsize=14613 ok=1
+  error: 2 plat 4 at lightlistbuild.compute(16): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=19063 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=20454 outsize=95033 ok=1
+  error: 2 plat 4 at lightlistbuild.compute(16): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=19063 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=34758 outsize=31513 ok=1
+  error: 2 plat 4 at SubsurfaceScattering.compute(27): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipeline/ShaderPass/ShaderPass.cs.hlsl'
+  api=4 insize=20454 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=1454 outsize=1461 ok=1
+  error: 2 plat 4 at VolumetricLighting.compute(57): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=34758 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=16866 outsize=6313 ok=1
+  error: 2 plat 4 at VolumetricLighting.compute(57): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=34758 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=16866 outsize=8013 ok=1
+  error: 2 plat 4 at VolumetricLighting.compute(57): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=34758 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=16866 outsize=9757 ok=1
+  error: 2 plat 4 at VolumetricLighting.compute(57): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=34758 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=16866 outsize=8957 ok=1
+  error: 2 plat 4 at BuildProbabilityTables.compute(7): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=8350 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=16866 outsize=11229 ok=1
+  error: 2 plat 4 at VolumeVoxelization.compute(35): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=16360 outsize=0 ok=0
 Cmd: compileComputeKernel
-  api=4 insize=3145 outsize=4301 ok=1
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=16866 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=16866 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=16866 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at materialflags.compute(6): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=3145 outsize=0 ok=0
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process
