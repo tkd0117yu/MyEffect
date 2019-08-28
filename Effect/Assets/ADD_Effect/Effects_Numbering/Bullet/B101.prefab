@@ -14116,11 +14116,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 212196959525280511}
     m_Modifications:
-    - target: {fileID: 4908877806536487577, guid: 372865d6d3858bc4d9d93014875b3f78,
-        type: 3}
-      propertyPath: m_Name
-      value: Thunder_F
-      objectReference: {fileID: 0}
     - target: {fileID: 4908877806536487572, guid: 372865d6d3858bc4d9d93014875b3f78,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -14185,6 +14180,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4908877806536487577, guid: 372865d6d3858bc4d9d93014875b3f78,
+        type: 3}
+      propertyPath: m_Name
+      value: Thunder_F
       objectReference: {fileID: 0}
     - target: {fileID: 4908877806536487579, guid: 372865d6d3858bc4d9d93014875b3f78,
         type: 3}
@@ -14426,11 +14426,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 212196959525280511}
     m_Modifications:
-    - target: {fileID: 4908877806536487577, guid: 372865d6d3858bc4d9d93014875b3f78,
-        type: 3}
-      propertyPath: m_Name
-      value: Thunder
-      objectReference: {fileID: 0}
     - target: {fileID: 4908877806536487572, guid: 372865d6d3858bc4d9d93014875b3f78,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -14490,6 +14485,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4908877806536487577, guid: 372865d6d3858bc4d9d93014875b3f78,
+        type: 3}
+      propertyPath: m_Name
+      value: Thunder
       objectReference: {fileID: 0}
     - target: {fileID: 4908877806536487579, guid: 372865d6d3858bc4d9d93014875b3f78,
         type: 3}
@@ -14796,11 +14796,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 212196959525280511}
     m_Modifications:
-    - target: {fileID: 4908877806536487577, guid: 372865d6d3858bc4d9d93014875b3f78,
-        type: 3}
-      propertyPath: m_Name
-      value: Thunder_L
-      objectReference: {fileID: 0}
     - target: {fileID: 4908877806536487572, guid: 372865d6d3858bc4d9d93014875b3f78,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -14860,6 +14855,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4908877806536487577, guid: 372865d6d3858bc4d9d93014875b3f78,
+        type: 3}
+      propertyPath: m_Name
+      value: Thunder_L
       objectReference: {fileID: 0}
     - target: {fileID: 4908877806536487579, guid: 372865d6d3858bc4d9d93014875b3f78,
         type: 3}
@@ -15101,11 +15101,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 212196959525280511}
     m_Modifications:
-    - target: {fileID: 4908877806536487577, guid: 372865d6d3858bc4d9d93014875b3f78,
-        type: 3}
-      propertyPath: m_Name
-      value: Thunder_R
-      objectReference: {fileID: 0}
     - target: {fileID: 4908877806536487572, guid: 372865d6d3858bc4d9d93014875b3f78,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -15160,6 +15155,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4908877806536487577, guid: 372865d6d3858bc4d9d93014875b3f78,
+        type: 3}
+      propertyPath: m_Name
+      value: Thunder_R
       objectReference: {fileID: 0}
     - target: {fileID: 4908877806536487579, guid: 372865d6d3858bc4d9d93014875b3f78,
         type: 3}
