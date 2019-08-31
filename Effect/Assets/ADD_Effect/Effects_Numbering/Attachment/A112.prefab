@@ -4923,7 +4923,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 0.7229632, b: 0.042452812, a: 0.20392157}
+      maxColor: {r: 0.043137252, g: 0.4166243, b: 1, a: 0.20392157}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -10819,7 +10819,7 @@ ParticleSystem:
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 0}
-        key1: {r: 1, g: 0.6537612, b: 0, a: 0.7411765}
+        key1: {r: 0, g: 0.551075, b: 1, a: 0.7411765}
         key2: {r: 1, g: 0.575258, b: 0.031372547, a: 0}
         key3: {r: 0, g: 0.20553756, b: 1, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -15574,16 +15574,16 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.56663406, g: 1, b: 0, a: 0}
-        key1: {r: 0.7651194, g: 1, b: 0.5529412, a: 0.7411765}
+        key0: {r: 1, g: 1, b: 1, a: 0}
+        key1: {r: 1, g: 1, b: 1, a: 0.7411765}
         key2: {r: 0.48162374, g: 1, b: 0.031372547, a: 0}
         key3: {r: 0, g: 0.20553756, b: 1, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
         key5: {r: 0, g: 0, b: 0, a: 0}
         key6: {r: 0, g: 0, b: 0, a: 0}
         key7: {r: 0, g: 0, b: 0, a: 0}
-        ctime0: 32189
-        ctime1: 38743
+        ctime0: 0
+        ctime1: 65535
         ctime2: 65535
         ctime3: 65535
         ctime4: 0
@@ -15599,7 +15599,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
-        m_NumColorKeys: 3
+        m_NumColorKeys: 2
         m_NumAlphaKeys: 3
       minGradient:
         serializedVersion: 2
@@ -18925,7 +18925,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7304be8c8be56fd4db053245df48eb69, type: 2}
+  - {fileID: 2100000, guid: e31c0aa3a3910ee45b847cd1efbaff79, type: 2}
   - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
