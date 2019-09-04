@@ -33,7 +33,7 @@ Transform:
   - {fileID: 3593536809348673402}
   - {fileID: 1341804684132501981}
   - {fileID: 8404738031378272476}
-  - {fileID: 7049476343404864924}
+  - {fileID: 7807976207581740630}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -42639,7 +42639,7 @@ ParticleSystemRenderer:
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
   m_MaskInteraction: 0
---- !u!1001 &3275710553828904733
+--- !u!1001 &2376472306866099415
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -42708,9 +42708,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5fcd6e2d20936fe488c54b5aec5950f3, type: 3}
---- !u!4 &7049476343404864924 stripped
+--- !u!4 &7807976207581740630 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5521813394896906881, guid: 5fcd6e2d20936fe488c54b5aec5950f3,
     type: 3}
-  m_PrefabInstance: {fileID: 3275710553828904733}
+  m_PrefabInstance: {fileID: 2376472306866099415}
   m_PrefabAsset: {fileID: 0}
