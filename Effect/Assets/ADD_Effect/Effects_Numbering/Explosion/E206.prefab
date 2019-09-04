@@ -168,7 +168,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 40
+      scalar: 15
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -4933,7 +4933,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 40
+      scalar: 15
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -9698,7 +9698,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 40
+      scalar: 15
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -47618,6 +47618,7 @@ GameObject:
   - component: {fileID: 9183066228786710120}
   - component: {fileID: 9183066228786710123}
   - component: {fileID: 9183066228786710122}
+  - component: {fileID: 8904428116515883697}
   m_Layer: 0
   m_Name: E206
   m_TagString: Untagged
@@ -52307,6 +52308,20 @@ ParticleSystemRenderer:
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
   m_MaskInteraction: 0
+--- !u!114 &8904428116515883697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9183066228786710117}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba38482341f21564dba32fab1ad26189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0
+  frame_Max: 90
 --- !u!1 &9183066228809535499
 GameObject:
   m_ObjectHideFlags: 0
@@ -80846,11 +80861,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6208418829837853637}
     m_Modifications:
-    - target: {fileID: 3979914304131006240, guid: 70fd2b8b0e38ff84ea47c796a2e91bf4,
-        type: 3}
-      propertyPath: m_Name
-      value: Sandsmoke
-      objectReference: {fileID: 0}
     - target: {fileID: 3979914304131006243, guid: 70fd2b8b0e38ff84ea47c796a2e91bf4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -80905,6 +80915,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979914304131006240, guid: 70fd2b8b0e38ff84ea47c796a2e91bf4,
+        type: 3}
+      propertyPath: m_Name
+      value: Sandsmoke
       objectReference: {fileID: 0}
     - target: {fileID: 3979914304131006242, guid: 70fd2b8b0e38ff84ea47c796a2e91bf4,
         type: 3}
@@ -81125,6 +81140,11 @@ PrefabInstance:
         type: 3}
       propertyPath: ColorModule.gradient.maxGradient.m_NumAlphaKeys
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979914304131006242, guid: 70fd2b8b0e38ff84ea47c796a2e91bf4,
+        type: 3}
+      propertyPath: ShapeModule.radiusThickness
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3979914304131006241, guid: 70fd2b8b0e38ff84ea47c796a2e91bf4,
         type: 3}

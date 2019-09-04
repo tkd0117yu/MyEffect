@@ -902,11 +902,6 @@ D:\17CU0318\Effects\Effect\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.ca
 D:\17CU0318\Effects\Effect\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 D:\17CU0318\Effects\Effect\obj\Debug\Assembly-CSharp.dll
 D:\17CU0318\Effects\Effect\obj\Debug\Assembly-CSharp.pdb
-D:\17CU0318\Effects\Effect\Temp\bin\Debug\Boo.Lang.dll
-D:\17CU0318\Effects\Effect\Temp\bin\Debug\UnityEditor.UI.dll
-D:\17CU0318\Effects\Effect\Temp\bin\Debug\UnityEditor.Graphs.dll
-D:\17CU0318\Effects\Effect\Temp\bin\Debug\ICSharpCode.NRefactory.dll
-D:\17CU0318\Effects\Effect\Temp\bin\Debug\UnityEditor.UI.xml
 D:\17CU0318\Effect\Effect\Temp\bin\Debug\Assembly-CSharp.dll
 D:\17CU0318\Effect\Effect\Temp\bin\Debug\Assembly-CSharp.pdb
 D:\17CU0318\Effect\Effect\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
