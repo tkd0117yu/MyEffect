@@ -74,7 +74,6 @@
     <Compile Include="Assets\TAKADA\Scripts\DoNotUse\MaterialProcessing.cs" />
     <Compile Include="Assets\TAKADA\Scripts\DoNotUse\ParticleDestroy.cs" />
     <Compile Include="Assets\TAKADA\Scripts\DoNotUse\ParticleManagement.cs" />
-    <Compile Include="Assets\TAKADA\Scripts\obj_Off.cs" />
     <Compile Include="Assets\TAKADA\Scripts\SlideMaterial.cs" />
     <Compile Include="Assets\TAKADA\Scripts\Use\A100_EffectStatusController.cs" />
     <Compile Include="Assets\TAKADA\Scripts\Use\BackgroundActivation.cs" />
