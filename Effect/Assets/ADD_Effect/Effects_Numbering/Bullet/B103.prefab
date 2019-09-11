@@ -14673,6 +14673,11 @@ PrefabInstance:
       propertyPath: NoiseModule.scrollSpeed.scalar
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4908877806536487579, guid: 372865d6d3858bc4d9d93014875b3f78,
+        type: 3}
+      propertyPath: TrailModule.lifetime.scalar
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 4908877806536487577, guid: 372865d6d3858bc4d9d93014875b3f78,
         type: 3}
       propertyPath: m_Name
